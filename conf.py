@@ -1,0 +1,1 @@
+model = "shop_books.book"
