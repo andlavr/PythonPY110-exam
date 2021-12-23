@@ -6,18 +6,18 @@ from faker import Faker
 
 
 def main():
+    '''в функции задаем стартовый номер книги, записвает условие генератора и создаем список'''
+    my_num = int(input("Введите целое число от 1 до 100"))
+    pk = 1
+    if 1 <= my_num <= 100:
+        if my_num >= pk:
+            pk = my_num
+            number_of_books = 100
+            library_list = []
 
-        my_num = int(input("Введите целое число от 1 до 100"))
-        pk = 1
-        if 1 <= my_num <= 100:
-            if my_num >= pk:
-                pk = my_num
-                number_of_books = 100
-                library_list = []
-
-                for book_ in range(pk, number_of_books+1):
-                    x_ = next(generator(book_))
-                    library_list.append(x_)
+            for book_ in range(pk, number_of_books+1):
+                x_ = next(generator(book_))
+                library_list.append(x_)
 
 
                 with open('JSON_books.json', 'w') as file:
@@ -39,7 +39,8 @@ def generator(book_= 1):
     yield all_books_
 
 def title():
-    with open('books.txt', 'r', encoding='utf8') as file_:   # Достаем из файла название книги
+    '''Достаем из файла название книги '''
+    with open('books.txt', 'r', encoding='utf8') as file_:
         for line in(file_):
             row_ = file_.readlines()
             row_ = [y.strip() for y in row_]
@@ -48,30 +49,36 @@ def title():
 
     return title
 
-def year(): # генерируем год
+def year():
+    """"Генерируем год"""
     year = random.randrange(1990, 2020)
     return year
 
-def pages(): # генерируем кол-во страниц
+def pages():
+    """"Генерируем кол-во страниц"""
     pages = random.randint(10, 500)
     return pages
 
-def isbn_():  # создаем номер isbn
+def isbn_():
+    """"Создаем номер isbn"""
     fake = Faker()
     Faker.seed(0)
     for _ in range(5):
         isbn_ = fake.isbn13()
     return isbn_
 
-def rating():   # рейтинг книги
+def rating():
+    """"Рейтинг книги"""
     rating = round(random.uniform(0, 5), 3)
     return rating
 
-def price():   # цена книги
+def price():
+    """"Цена книги"""
     price = round(random.uniform(500, 3000), 2)
     return price
 
-def author():  # генерируем имя автора книги
+def author():
+    """"Генерируем имя автора книги"""
     count_ = random.randint(1, 3)
     for _ in range(count_):
         fake = Faker()
