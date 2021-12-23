@@ -1,0 +1,1276 @@
+[
+    {
+        "model:": "shop_books.book",
+        "pk:": 3,
+        "fields": {
+            "title:": "Гордость и предубеждение",
+            "year:": 2013,
+            "pages:": 433,
+            "ISBN13": "978-1-5351-3933-5",
+            "rating:": 2.442,
+            "price:": 2175.14,
+            "author:": "Willie Golden"
+        }
+    },
+    {
+        "model:": "shop_books.book",
+        "pk:": 4,
+        "fields": {
+            "title:": "Дневник Анны Франк",
+            "year:": 1993,
+            "pages:": 478,
+            "ISBN13": "978-1-5351-3933-5",
+            "rating:": 2.186,
+            "price:": 2085.77,
+            "author:": "Willie Golden"
+        }
+    },
+    {
+        "model:": "shop_books.book",
+        "pk:": 5,
+        "fields": {
+            "title:": "Гордость и предубеждение",
+            "year:": 2006,
+            "pages:": 194,
+            "ISBN13": "978-1-5351-3933-5",
+            "rating:": 2.846,
+            "price:": 781.48,
+            "author:": "Willie Golden"
+        }
+    },
+    {
+        "model:": "shop_books.book",
+        "pk:": 6,
+        "fields": {
+            "title:": "Хоббит",
+            "year:": 2002,
+            "pages:": 291,
+            "ISBN13": "978-1-5351-3933-5",
+            "rating:": 0.979,
+            "price:": 605.83,
+            "author:": "Brenda Daniels"
+        }
+    },
+    {
+        "model:": "shop_books.book",
+        "pk:": 7,
+        "fields": {
+            "title:": "Гарри Поттер и философский камень",
+            "year:": 2017,
+            "pages:": 434,
+            "ISBN13": "978-1-5351-3933-5",
+            "rating:": 1.541,
+            "price:": 2416.91,
+            "author:": "Brenda Daniels"
+        }
+    },
+    {
+        "model:": "shop_books.book",
+        "pk:": 8,
+        "fields": {
+            "title:": "Гарри Поттер и философский камень",
+            "year:": 2018,
+            "pages:": 245,
+            "ISBN13": "978-1-5351-3933-5",
+            "rating:": 1.689,
+            "price:": 1841.6,
+            "author:": "Willie Golden"
+        }
+    },
+    {
+        "model:": "shop_books.book",
+        "pk:": 9,
+        "fields": {
+            "title:": "Гарри Поттер и философский камень",
+            "year:": 2017,
+            "pages:": 428,
+            "ISBN13": "978-1-5351-3933-5",
+            "rating:": 4.991,
+            "price:": 2695.26,
+            "author:": "Mrs. Elizabeth Carter MD"
+        }
+    },
+    {
+        "model:": "shop_books.book",
+        "pk:": 10,
+        "fields": {
+            "title:": "Дневник Анны Франк",
+            "year:": 1992,
+            "pages:": 26,
+            "ISBN13": "978-1-5351-3933-5",
+            "rating:": 0.033,
+            "price:": 2181.41,
+            "author:": "Mrs. Elizabeth Carter MD"
+        }
+    },
+    {
+        "model:": "shop_books.book",
+        "pk:": 11,
+        "fields": {
+            "title:": "Хоббит",
+            "year:": 2003,
+            "pages:": 285,
+            "ISBN13": "978-1-5351-3933-5",
+            "rating:": 3.062,
+            "price:": 2905.31,
+            "author:": "Willie Golden"
+        }
+    },
+    {
+        "model:": "shop_books.book",
+        "pk:": 12,
+        "fields": {
+            "title:": "Гарри Поттер и философский камень",
+            "year:": 1995,
+            "pages:": 175,
+            "ISBN13": "978-1-5351-3933-5",
+            "rating:": 4.265,
+            "price:": 1539.36,
+            "author:": "Mrs. Elizabeth Carter MD"
+        }
+    },
+    {
+        "model:": "shop_books.book",
+        "pk:": 13,
+        "fields": {
+            "title:": "Дневник Анны Франк",
+            "year:": 2007,
+            "pages:": 247,
+            "ISBN13": "978-1-5351-3933-5",
+            "rating:": 2.98,
+            "price:": 563.61,
+            "author:": "Mrs. Elizabeth Carter MD"
+        }
+    },
+    {
+        "model:": "shop_books.book",
+        "pk:": 14,
+        "fields": {
+            "title:": "Гордость и предубеждение",
+            "year:": 1996,
+            "pages:": 102,
+            "ISBN13": "978-1-5351-3933-5",
+            "rating:": 2.213,
+            "price:": 2769.91,
+            "author:": "Mrs. Elizabeth Carter MD"
+        }
+    },
+    {
+        "model:": "shop_books.book",
+        "pk:": 15,
+        "fields": {
+            "title:": "Хоббит",
+            "year:": 2014,
+            "pages:": 455,
+            "ISBN13": "978-1-5351-3933-5",
+            "rating:": 4.007,
+            "price:": 507.49,
+            "author:": "Mrs. Elizabeth Carter MD"
+        }
+    },
+    {
+        "model:": "shop_books.book",
+        "pk:": 16,
+        "fields": {
+            "title:": "Гарри Поттер и философский камень",
+            "year:": 1995,
+            "pages:": 56,
+            "ISBN13": "978-1-5351-3933-5",
+            "rating:": 3.52,
+            "price:": 1632.03,
+            "author:": "Willie Golden"
+        }
+    },
+    {
+        "model:": "shop_books.book",
+        "pk:": 17,
+        "fields": {
+            "title:": "Гордость и предубеждение",
+            "year:": 2003,
+            "pages:": 76,
+            "ISBN13": "978-1-5351-3933-5",
+            "rating:": 4.523,
+            "price:": 2868.07,
+            "author:": "Mrs. Elizabeth Carter MD"
+        }
+    },
+    {
+        "model:": "shop_books.book",
+        "pk:": 18,
+        "fields": {
+            "title:": "Гордость и предубеждение",
+            "year:": 2010,
+            "pages:": 157,
+            "ISBN13": "978-1-5351-3933-5",
+            "rating:": 3.999,
+            "price:": 2721.34,
+            "author:": "Brenda Daniels"
+        }
+    },
+    {
+        "model:": "shop_books.book",
+        "pk:": 19,
+        "fields": {
+            "title:": "Гордость и предубеждение",
+            "year:": 2015,
+            "pages:": 442,
+            "ISBN13": "978-1-5351-3933-5",
+            "rating:": 0.115,
+            "price:": 870.11,
+            "author:": "Mrs. Elizabeth Carter MD"
+        }
+    },
+    {
+        "model:": "shop_books.book",
+        "pk:": 20,
+        "fields": {
+            "title:": "Хоббит",
+            "year:": 1997,
+            "pages:": 206,
+            "ISBN13": "978-1-5351-3933-5",
+            "rating:": 1.511,
+            "price:": 2305.93,
+            "author:": "Brenda Daniels"
+        }
+    },
+    {
+        "model:": "shop_books.book",
+        "pk:": 21,
+        "fields": {
+            "title:": "Дневник Анны Франк",
+            "year:": 2004,
+            "pages:": 301,
+            "ISBN13": "978-1-5351-3933-5",
+            "rating:": 4.661,
+            "price:": 987.92,
+            "author:": "Mrs. Elizabeth Carter MD"
+        }
+    },
+    {
+        "model:": "shop_books.book",
+        "pk:": 22,
+        "fields": {
+            "title:": "Хоббит",
+            "year:": 2006,
+            "pages:": 34,
+            "ISBN13": "978-1-5351-3933-5",
+            "rating:": 1.076,
+            "price:": 2743.21,
+            "author:": "Mrs. Elizabeth Carter MD"
+        }
+    },
+    {
+        "model:": "shop_books.book",
+        "pk:": 23,
+        "fields": {
+            "title:": "Дневник Анны Франк",
+            "year:": 2005,
+            "pages:": 399,
+            "ISBN13": "978-1-5351-3933-5",
+            "rating:": 2.285,
+            "price:": 2366.5,
+            "author:": "Willie Golden"
+        }
+    },
+    {
+        "model:": "shop_books.book",
+        "pk:": 24,
+        "fields": {
+            "title:": "Гордость и предубеждение",
+            "year:": 1994,
+            "pages:": 330,
+            "ISBN13": "978-1-5351-3933-5",
+            "rating:": 1.622,
+            "price:": 960.36,
+            "author:": "Brenda Daniels"
+        }
+    },
+    {
+        "model:": "shop_books.book",
+        "pk:": 25,
+        "fields": {
+            "title:": "Дневник Анны Франк",
+            "year:": 2010,
+            "pages:": 269,
+            "ISBN13": "978-1-5351-3933-5",
+            "rating:": 1.997,
+            "price:": 771.41,
+            "author:": "Brenda Daniels"
+        }
+    },
+    {
+        "model:": "shop_books.book",
+        "pk:": 26,
+        "fields": {
+            "title:": "Дневник Анны Франк",
+            "year:": 1998,
+            "pages:": 460,
+            "ISBN13": "978-1-5351-3933-5",
+            "rating:": 4.454,
+            "price:": 2189.2,
+            "author:": "Willie Golden"
+        }
+    },
+    {
+        "model:": "shop_books.book",
+        "pk:": 27,
+        "fields": {
+            "title:": "Дневник Анны Франк",
+            "year:": 1995,
+            "pages:": 358,
+            "ISBN13": "978-1-5351-3933-5",
+            "rating:": 2.948,
+            "price:": 2089.74,
+            "author:": "Brenda Daniels"
+        }
+    },
+    {
+        "model:": "shop_books.book",
+        "pk:": 28,
+        "fields": {
+            "title:": "Гордость и предубеждение",
+            "year:": 1993,
+            "pages:": 330,
+            "ISBN13": "978-1-5351-3933-5",
+            "rating:": 0.941,
+            "price:": 1006.66,
+            "author:": "Brenda Daniels"
+        }
+    },
+    {
+        "model:": "shop_books.book",
+        "pk:": 29,
+        "fields": {
+            "title:": "Гарри Поттер и философский камень",
+            "year:": 2017,
+            "pages:": 183,
+            "ISBN13": "978-1-5351-3933-5",
+            "rating:": 0.904,
+            "price:": 1038.69,
+            "author:": "Brenda Daniels"
+        }
+    },
+    {
+        "model:": "shop_books.book",
+        "pk:": 30,
+        "fields": {
+            "title:": "Дневник Анны Франк",
+            "year:": 1998,
+            "pages:": 339,
+            "ISBN13": "978-1-5351-3933-5",
+            "rating:": 4.289,
+            "price:": 905.48,
+            "author:": "Mrs. Elizabeth Carter MD"
+        }
+    },
+    {
+        "model:": "shop_books.book",
+        "pk:": 31,
+        "fields": {
+            "title:": "Гордость и предубеждение",
+            "year:": 1993,
+            "pages:": 156,
+            "ISBN13": "978-1-5351-3933-5",
+            "rating:": 2.942,
+            "price:": 2329.48,
+            "author:": "Willie Golden"
+        }
+    },
+    {
+        "model:": "shop_books.book",
+        "pk:": 32,
+        "fields": {
+            "title:": "Дневник Анны Франк",
+            "year:": 2009,
+            "pages:": 277,
+            "ISBN13": "978-1-5351-3933-5",
+            "rating:": 0.251,
+            "price:": 1653.05,
+            "author:": "Mrs. Elizabeth Carter MD"
+        }
+    },
+    {
+        "model:": "shop_books.book",
+        "pk:": 33,
+        "fields": {
+            "title:": "Дневник Анны Франк",
+            "year:": 2006,
+            "pages:": 376,
+            "ISBN13": "978-1-5351-3933-5",
+            "rating:": 2.861,
+            "price:": 2146.47,
+            "author:": "Willie Golden"
+        }
+    },
+    {
+        "model:": "shop_books.book",
+        "pk:": 34,
+        "fields": {
+            "title:": "Гарри Поттер и философский камень",
+            "year:": 2006,
+            "pages:": 88,
+            "ISBN13": "978-1-5351-3933-5",
+            "rating:": 3.67,
+            "price:": 535.26,
+            "author:": "Mrs. Elizabeth Carter MD"
+        }
+    },
+    {
+        "model:": "shop_books.book",
+        "pk:": 35,
+        "fields": {
+            "title:": "Хоббит",
+            "year:": 2012,
+            "pages:": 349,
+            "ISBN13": "978-1-5351-3933-5",
+            "rating:": 3.501,
+            "price:": 1941.35,
+            "author:": "Mrs. Elizabeth Carter MD"
+        }
+    },
+    {
+        "model:": "shop_books.book",
+        "pk:": 36,
+        "fields": {
+            "title:": "Хоббит",
+            "year:": 1992,
+            "pages:": 225,
+            "ISBN13": "978-1-5351-3933-5",
+            "rating:": 1.551,
+            "price:": 793.48,
+            "author:": "Brenda Daniels"
+        }
+    },
+    {
+        "model:": "shop_books.book",
+        "pk:": 37,
+        "fields": {
+            "title:": "Гордость и предубеждение",
+            "year:": 2006,
+            "pages:": 88,
+            "ISBN13": "978-1-5351-3933-5",
+            "rating:": 4.273,
+            "price:": 520.64,
+            "author:": "Brenda Daniels"
+        }
+    },
+    {
+        "model:": "shop_books.book",
+        "pk:": 38,
+        "fields": {
+            "title:": "Гордость и предубеждение",
+            "year:": 1991,
+            "pages:": 420,
+            "ISBN13": "978-1-5351-3933-5",
+            "rating:": 2.182,
+            "price:": 1071.56,
+            "author:": "Mrs. Elizabeth Carter MD"
+        }
+    },
+    {
+        "model:": "shop_books.book",
+        "pk:": 39,
+        "fields": {
+            "title:": "Дневник Анны Франк",
+            "year:": 2015,
+            "pages:": 30,
+            "ISBN13": "978-1-5351-3933-5",
+            "rating:": 1.176,
+            "price:": 2594.83,
+            "author:": "Mrs. Elizabeth Carter MD"
+        }
+    },
+    {
+        "model:": "shop_books.book",
+        "pk:": 40,
+        "fields": {
+            "title:": "Дневник Анны Франк",
+            "year:": 2013,
+            "pages:": 347,
+            "ISBN13": "978-1-5351-3933-5",
+            "rating:": 1.916,
+            "price:": 2620.35,
+            "author:": "Willie Golden"
+        }
+    },
+    {
+        "model:": "shop_books.book",
+        "pk:": 41,
+        "fields": {
+            "title:": "Дневник Анны Франк",
+            "year:": 2014,
+            "pages:": 248,
+            "ISBN13": "978-1-5351-3933-5",
+            "rating:": 4.329,
+            "price:": 1056.17,
+            "author:": "Brenda Daniels"
+        }
+    },
+    {
+        "model:": "shop_books.book",
+        "pk:": 42,
+        "fields": {
+            "title:": "Гордость и предубеждение",
+            "year:": 1991,
+            "pages:": 349,
+            "ISBN13": "978-1-5351-3933-5",
+            "rating:": 3.724,
+            "price:": 2479.56,
+            "author:": "Brenda Daniels"
+        }
+    },
+    {
+        "model:": "shop_books.book",
+        "pk:": 43,
+        "fields": {
+            "title:": "Гарри Поттер и философский камень",
+            "year:": 2013,
+            "pages:": 120,
+            "ISBN13": "978-1-5351-3933-5",
+            "rating:": 3.277,
+            "price:": 1723.35,
+            "author:": "Mrs. Elizabeth Carter MD"
+        }
+    },
+    {
+        "model:": "shop_books.book",
+        "pk:": 44,
+        "fields": {
+            "title:": "Хоббит",
+            "year:": 2003,
+            "pages:": 240,
+            "ISBN13": "978-1-5351-3933-5",
+            "rating:": 2.406,
+            "price:": 1179.68,
+            "author:": "Willie Golden"
+        }
+    },
+    {
+        "model:": "shop_books.book",
+        "pk:": 45,
+        "fields": {
+            "title:": "Дневник Анны Франк",
+            "year:": 1997,
+            "pages:": 21,
+            "ISBN13": "978-1-5351-3933-5",
+            "rating:": 0.178,
+            "price:": 2481.73,
+            "author:": "Willie Golden"
+        }
+    },
+    {
+        "model:": "shop_books.book",
+        "pk:": 46,
+        "fields": {
+            "title:": "Хоббит",
+            "year:": 2003,
+            "pages:": 111,
+            "ISBN13": "978-1-5351-3933-5",
+            "rating:": 2.694,
+            "price:": 1001.94,
+            "author:": "Willie Golden"
+        }
+    },
+    {
+        "model:": "shop_books.book",
+        "pk:": 47,
+        "fields": {
+            "title:": "Дневник Анны Франк",
+            "year:": 2007,
+            "pages:": 376,
+            "ISBN13": "978-1-5351-3933-5",
+            "rating:": 3.959,
+            "price:": 1377.56,
+            "author:": "Willie Golden"
+        }
+    },
+    {
+        "model:": "shop_books.book",
+        "pk:": 48,
+        "fields": {
+            "title:": "Гордость и предубеждение",
+            "year:": 2015,
+            "pages:": 308,
+            "ISBN13": "978-1-5351-3933-5",
+            "rating:": 3.679,
+            "price:": 1764.49,
+            "author:": "Willie Golden"
+        }
+    },
+    {
+        "model:": "shop_books.book",
+        "pk:": 49,
+        "fields": {
+            "title:": "Хоббит",
+            "year:": 2006,
+            "pages:": 134,
+            "ISBN13": "978-1-5351-3933-5",
+            "rating:": 1.636,
+            "price:": 1970.13,
+            "author:": "Brenda Daniels"
+        }
+    },
+    {
+        "model:": "shop_books.book",
+        "pk:": 50,
+        "fields": {
+            "title:": "Гордость и предубеждение",
+            "year:": 2014,
+            "pages:": 22,
+            "ISBN13": "978-1-5351-3933-5",
+            "rating:": 2.62,
+            "price:": 2030.33,
+            "author:": "Mrs. Elizabeth Carter MD"
+        }
+    },
+    {
+        "model:": "shop_books.book",
+        "pk:": 51,
+        "fields": {
+            "title:": "Гарри Поттер и философский камень",
+            "year:": 2006,
+            "pages:": 363,
+            "ISBN13": "978-1-5351-3933-5",
+            "rating:": 0.633,
+            "price:": 693.34,
+            "author:": "Mrs. Elizabeth Carter MD"
+        }
+    },
+    {
+        "model:": "shop_books.book",
+        "pk:": 52,
+        "fields": {
+            "title:": "Гарри Поттер и философский камень",
+            "year:": 1993,
+            "pages:": 153,
+            "ISBN13": "978-1-5351-3933-5",
+            "rating:": 2.477,
+            "price:": 1073.94,
+            "author:": "Willie Golden"
+        }
+    },
+    {
+        "model:": "shop_books.book",
+        "pk:": 53,
+        "fields": {
+            "title:": "Гарри Поттер и философский камень",
+            "year:": 2006,
+            "pages:": 420,
+            "ISBN13": "978-1-5351-3933-5",
+            "rating:": 4.032,
+            "price:": 1713.88,
+            "author:": "Mrs. Elizabeth Carter MD"
+        }
+    },
+    {
+        "model:": "shop_books.book",
+        "pk:": 54,
+        "fields": {
+            "title:": "Гарри Поттер и философский камень",
+            "year:": 1996,
+            "pages:": 141,
+            "ISBN13": "978-1-5351-3933-5",
+            "rating:": 2.395,
+            "price:": 2812.69,
+            "author:": "Mrs. Elizabeth Carter MD"
+        }
+    },
+    {
+        "model:": "shop_books.book",
+        "pk:": 55,
+        "fields": {
+            "title:": "Гордость и предубеждение",
+            "year:": 2007,
+            "pages:": 46,
+            "ISBN13": "978-1-5351-3933-5",
+            "rating:": 4.387,
+            "price:": 2825.91,
+            "author:": "Willie Golden"
+        }
+    },
+    {
+        "model:": "shop_books.book",
+        "pk:": 56,
+        "fields": {
+            "title:": "Хоббит",
+            "year:": 2012,
+            "pages:": 91,
+            "ISBN13": "978-1-5351-3933-5",
+            "rating:": 3.442,
+            "price:": 1430.72,
+            "author:": "Mrs. Elizabeth Carter MD"
+        }
+    },
+    {
+        "model:": "shop_books.book",
+        "pk:": 57,
+        "fields": {
+            "title:": "Гордость и предубеждение",
+            "year:": 1992,
+            "pages:": 258,
+            "ISBN13": "978-1-5351-3933-5",
+            "rating:": 2.506,
+            "price:": 2293.82,
+            "author:": "Brenda Daniels"
+        }
+    },
+    {
+        "model:": "shop_books.book",
+        "pk:": 58,
+        "fields": {
+            "title:": "Дневник Анны Франк",
+            "year:": 2006,
+            "pages:": 449,
+            "ISBN13": "978-1-5351-3933-5",
+            "rating:": 0.047,
+            "price:": 1897.13,
+            "author:": "Willie Golden"
+        }
+    },
+    {
+        "model:": "shop_books.book",
+        "pk:": 59,
+        "fields": {
+            "title:": "Гарри Поттер и философский камень",
+            "year:": 2007,
+            "pages:": 11,
+            "ISBN13": "978-1-5351-3933-5",
+            "rating:": 3.81,
+            "price:": 2394.43,
+            "author:": "Mrs. Elizabeth Carter MD"
+        }
+    },
+    {
+        "model:": "shop_books.book",
+        "pk:": 60,
+        "fields": {
+            "title:": "Хоббит",
+            "year:": 2009,
+            "pages:": 255,
+            "ISBN13": "978-1-5351-3933-5",
+            "rating:": 0.655,
+            "price:": 640.58,
+            "author:": "Mrs. Elizabeth Carter MD"
+        }
+    },
+    {
+        "model:": "shop_books.book",
+        "pk:": 61,
+        "fields": {
+            "title:": "Хоббит",
+            "year:": 2003,
+            "pages:": 126,
+            "ISBN13": "978-1-5351-3933-5",
+            "rating:": 3.959,
+            "price:": 2453.08,
+            "author:": "Willie Golden"
+        }
+    },
+    {
+        "model:": "shop_books.book",
+        "pk:": 62,
+        "fields": {
+            "title:": "Хоббит",
+            "year:": 1992,
+            "pages:": 320,
+            "ISBN13": "978-1-5351-3933-5",
+            "rating:": 4.698,
+            "price:": 2620.03,
+            "author:": "Mrs. Elizabeth Carter MD"
+        }
+    },
+    {
+        "model:": "shop_books.book",
+        "pk:": 63,
+        "fields": {
+            "title:": "Гарри Поттер и философский камень",
+            "year:": 1997,
+            "pages:": 142,
+            "ISBN13": "978-1-5351-3933-5",
+            "rating:": 0.917,
+            "price:": 1131.24,
+            "author:": "Willie Golden"
+        }
+    },
+    {
+        "model:": "shop_books.book",
+        "pk:": 64,
+        "fields": {
+            "title:": "Гордость и предубеждение",
+            "year:": 2016,
+            "pages:": 187,
+            "ISBN13": "978-1-5351-3933-5",
+            "rating:": 2.387,
+            "price:": 2834.36,
+            "author:": "Brenda Daniels"
+        }
+    },
+    {
+        "model:": "shop_books.book",
+        "pk:": 65,
+        "fields": {
+            "title:": "Гарри Поттер и философский камень",
+            "year:": 1997,
+            "pages:": 60,
+            "ISBN13": "978-1-5351-3933-5",
+            "rating:": 1.287,
+            "price:": 1765.42,
+            "author:": "Brenda Daniels"
+        }
+    },
+    {
+        "model:": "shop_books.book",
+        "pk:": 66,
+        "fields": {
+            "title:": "Хоббит",
+            "year:": 2003,
+            "pages:": 209,
+            "ISBN13": "978-1-5351-3933-5",
+            "rating:": 3.359,
+            "price:": 2144.27,
+            "author:": "Willie Golden"
+        }
+    },
+    {
+        "model:": "shop_books.book",
+        "pk:": 67,
+        "fields": {
+            "title:": "Хоббит",
+            "year:": 2003,
+            "pages:": 76,
+            "ISBN13": "978-1-5351-3933-5",
+            "rating:": 0.478,
+            "price:": 2085.18,
+            "author:": "Mrs. Elizabeth Carter MD"
+        }
+    },
+    {
+        "model:": "shop_books.book",
+        "pk:": 68,
+        "fields": {
+            "title:": "Гордость и предубеждение",
+            "year:": 2000,
+            "pages:": 360,
+            "ISBN13": "978-1-5351-3933-5",
+            "rating:": 4.686,
+            "price:": 2826.14,
+            "author:": "Willie Golden"
+        }
+    },
+    {
+        "model:": "shop_books.book",
+        "pk:": 69,
+        "fields": {
+            "title:": "Гордость и предубеждение",
+            "year:": 2000,
+            "pages:": 447,
+            "ISBN13": "978-1-5351-3933-5",
+            "rating:": 3.341,
+            "price:": 663.14,
+            "author:": "Mrs. Elizabeth Carter MD"
+        }
+    },
+    {
+        "model:": "shop_books.book",
+        "pk:": 70,
+        "fields": {
+            "title:": "Гарри Поттер и философский камень",
+            "year:": 2019,
+            "pages:": 242,
+            "ISBN13": "978-1-5351-3933-5",
+            "rating:": 0.775,
+            "price:": 2659.66,
+            "author:": "Mrs. Elizabeth Carter MD"
+        }
+    },
+    {
+        "model:": "shop_books.book",
+        "pk:": 71,
+        "fields": {
+            "title:": "Дневник Анны Франк",
+            "year:": 2011,
+            "pages:": 430,
+            "ISBN13": "978-1-5351-3933-5",
+            "rating:": 4.534,
+            "price:": 745.02,
+            "author:": "Willie Golden"
+        }
+    },
+    {
+        "model:": "shop_books.book",
+        "pk:": 72,
+        "fields": {
+            "title:": "Гарри Поттер и философский камень",
+            "year:": 2005,
+            "pages:": 313,
+            "ISBN13": "978-1-5351-3933-5",
+            "rating:": 0.045,
+            "price:": 1047.34,
+            "author:": "Willie Golden"
+        }
+    },
+    {
+        "model:": "shop_books.book",
+        "pk:": 73,
+        "fields": {
+            "title:": "Гарри Поттер и философский камень",
+            "year:": 1994,
+            "pages:": 346,
+            "ISBN13": "978-1-5351-3933-5",
+            "rating:": 4.259,
+            "price:": 825.41,
+            "author:": "Brenda Daniels"
+        }
+    },
+    {
+        "model:": "shop_books.book",
+        "pk:": 74,
+        "fields": {
+            "title:": "Гарри Поттер и философский камень",
+            "year:": 1994,
+            "pages:": 33,
+            "ISBN13": "978-1-5351-3933-5",
+            "rating:": 3.362,
+            "price:": 599.96,
+            "author:": "Brenda Daniels"
+        }
+    },
+    {
+        "model:": "shop_books.book",
+        "pk:": 75,
+        "fields": {
+            "title:": "Дневник Анны Франк",
+            "year:": 2012,
+            "pages:": 174,
+            "ISBN13": "978-1-5351-3933-5",
+            "rating:": 4.405,
+            "price:": 2169.24,
+            "author:": "Willie Golden"
+        }
+    },
+    {
+        "model:": "shop_books.book",
+        "pk:": 76,
+        "fields": {
+            "title:": "Дневник Анны Франк",
+            "year:": 2015,
+            "pages:": 346,
+            "ISBN13": "978-1-5351-3933-5",
+            "rating:": 0.439,
+            "price:": 2592.92,
+            "author:": "Mrs. Elizabeth Carter MD"
+        }
+    },
+    {
+        "model:": "shop_books.book",
+        "pk:": 77,
+        "fields": {
+            "title:": "Гарри Поттер и философский камень",
+            "year:": 1992,
+            "pages:": 282,
+            "ISBN13": "978-1-5351-3933-5",
+            "rating:": 4.593,
+            "price:": 803.46,
+            "author:": "Willie Golden"
+        }
+    },
+    {
+        "model:": "shop_books.book",
+        "pk:": 78,
+        "fields": {
+            "title:": "Гордость и предубеждение",
+            "year:": 2005,
+            "pages:": 423,
+            "ISBN13": "978-1-5351-3933-5",
+            "rating:": 1.846,
+            "price:": 1024.3,
+            "author:": "Brenda Daniels"
+        }
+    },
+    {
+        "model:": "shop_books.book",
+        "pk:": 79,
+        "fields": {
+            "title:": "Гордость и предубеждение",
+            "year:": 1990,
+            "pages:": 427,
+            "ISBN13": "978-1-5351-3933-5",
+            "rating:": 0.433,
+            "price:": 1654.13,
+            "author:": "Mrs. Elizabeth Carter MD"
+        }
+    },
+    {
+        "model:": "shop_books.book",
+        "pk:": 80,
+        "fields": {
+            "title:": "Гордость и предубеждение",
+            "year:": 2015,
+            "pages:": 424,
+            "ISBN13": "978-1-5351-3933-5",
+            "rating:": 2.751,
+            "price:": 2009.5,
+            "author:": "Willie Golden"
+        }
+    },
+    {
+        "model:": "shop_books.book",
+        "pk:": 81,
+        "fields": {
+            "title:": "Хоббит",
+            "year:": 1993,
+            "pages:": 48,
+            "ISBN13": "978-1-5351-3933-5",
+            "rating:": 4.33,
+            "price:": 514.44,
+            "author:": "Willie Golden"
+        }
+    },
+    {
+        "model:": "shop_books.book",
+        "pk:": 82,
+        "fields": {
+            "title:": "Гордость и предубеждение",
+            "year:": 2000,
+            "pages:": 373,
+            "ISBN13": "978-1-5351-3933-5",
+            "rating:": 4.087,
+            "price:": 1898.41,
+            "author:": "Mrs. Elizabeth Carter MD"
+        }
+    },
+    {
+        "model:": "shop_books.book",
+        "pk:": 83,
+        "fields": {
+            "title:": "Дневник Анны Франк",
+            "year:": 2003,
+            "pages:": 233,
+            "ISBN13": "978-1-5351-3933-5",
+            "rating:": 2.346,
+            "price:": 1405.84,
+            "author:": "Willie Golden"
+        }
+    },
+    {
+        "model:": "shop_books.book",
+        "pk:": 84,
+        "fields": {
+            "title:": "Хоббит",
+            "year:": 2002,
+            "pages:": 288,
+            "ISBN13": "978-1-5351-3933-5",
+            "rating:": 2.914,
+            "price:": 1213.52,
+            "author:": "Mrs. Elizabeth Carter MD"
+        }
+    },
+    {
+        "model:": "shop_books.book",
+        "pk:": 85,
+        "fields": {
+            "title:": "Гарри Поттер и философский камень",
+            "year:": 1998,
+            "pages:": 150,
+            "ISBN13": "978-1-5351-3933-5",
+            "rating:": 0.072,
+            "price:": 2981.68,
+            "author:": "Mrs. Elizabeth Carter MD"
+        }
+    },
+    {
+        "model:": "shop_books.book",
+        "pk:": 86,
+        "fields": {
+            "title:": "Гарри Поттер и философский камень",
+            "year:": 2005,
+            "pages:": 50,
+            "ISBN13": "978-1-5351-3933-5",
+            "rating:": 4.948,
+            "price:": 654.81,
+            "author:": "Willie Golden"
+        }
+    },
+    {
+        "model:": "shop_books.book",
+        "pk:": 87,
+        "fields": {
+            "title:": "Хоббит",
+            "year:": 1999,
+            "pages:": 392,
+            "ISBN13": "978-1-5351-3933-5",
+            "rating:": 4.356,
+            "price:": 856.08,
+            "author:": "Brenda Daniels"
+        }
+    },
+    {
+        "model:": "shop_books.book",
+        "pk:": 88,
+        "fields": {
+            "title:": "Гарри Поттер и философский камень",
+            "year:": 1998,
+            "pages:": 163,
+            "ISBN13": "978-1-5351-3933-5",
+            "rating:": 1.302,
+            "price:": 1019.99,
+            "author:": "Willie Golden"
+        }
+    },
+    {
+        "model:": "shop_books.book",
+        "pk:": 89,
+        "fields": {
+            "title:": "Хоббит",
+            "year:": 2011,
+            "pages:": 34,
+            "ISBN13": "978-1-5351-3933-5",
+            "rating:": 4.483,
+            "price:": 639.41,
+            "author:": "Mrs. Elizabeth Carter MD"
+        }
+    },
+    {
+        "model:": "shop_books.book",
+        "pk:": 90,
+        "fields": {
+            "title:": "Гарри Поттер и философский камень",
+            "year:": 1997,
+            "pages:": 164,
+            "ISBN13": "978-1-5351-3933-5",
+            "rating:": 3.004,
+            "price:": 1275.94,
+            "author:": "Willie Golden"
+        }
+    },
+    {
+        "model:": "shop_books.book",
+        "pk:": 91,
+        "fields": {
+            "title:": "Дневник Анны Франк",
+            "year:": 2018,
+            "pages:": 332,
+            "ISBN13": "978-1-5351-3933-5",
+            "rating:": 4.581,
+            "price:": 2035.82,
+            "author:": "Brenda Daniels"
+        }
+    },
+    {
+        "model:": "shop_books.book",
+        "pk:": 92,
+        "fields": {
+            "title:": "Гарри Поттер и философский камень",
+            "year:": 2019,
+            "pages:": 159,
+            "ISBN13": "978-1-5351-3933-5",
+            "rating:": 3.966,
+            "price:": 2048.79,
+            "author:": "Willie Golden"
+        }
+    },
+    {
+        "model:": "shop_books.book",
+        "pk:": 93,
+        "fields": {
+            "title:": "Хоббит",
+            "year:": 2004,
+            "pages:": 23,
+            "ISBN13": "978-1-5351-3933-5",
+            "rating:": 4.065,
+            "price:": 2783.38,
+            "author:": "Mrs. Elizabeth Carter MD"
+        }
+    },
+    {
+        "model:": "shop_books.book",
+        "pk:": 94,
+        "fields": {
+            "title:": "Гордость и предубеждение",
+            "year:": 2006,
+            "pages:": 258,
+            "ISBN13": "978-1-5351-3933-5",
+            "rating:": 1.299,
+            "price:": 2900.85,
+            "author:": "Mrs. Elizabeth Carter MD"
+        }
+    },
+    {
+        "model:": "shop_books.book",
+        "pk:": 95,
+        "fields": {
+            "title:": "Гарри Поттер и философский камень",
+            "year:": 2017,
+            "pages:": 118,
+            "ISBN13": "978-1-5351-3933-5",
+            "rating:": 2.696,
+            "price:": 2380.95,
+            "author:": "Mrs. Elizabeth Carter MD"
+        }
+    },
+    {
+        "model:": "shop_books.book",
+        "pk:": 96,
+        "fields": {
+            "title:": "Дневник Анны Франк",
+            "year:": 2019,
+            "pages:": 389,
+            "ISBN13": "978-1-5351-3933-5",
+            "rating:": 4.301,
+            "price:": 2099.57,
+            "author:": "Brenda Daniels"
+        }
+    },
+    {
+        "model:": "shop_books.book",
+        "pk:": 97,
+        "fields": {
+            "title:": "Дневник Анны Франк",
+            "year:": 1990,
+            "pages:": 211,
+            "ISBN13": "978-1-5351-3933-5",
+            "rating:": 3.614,
+            "price:": 1868.84,
+            "author:": "Brenda Daniels"
+        }
+    },
+    {
+        "model:": "shop_books.book",
+        "pk:": 98,
+        "fields": {
+            "title:": "Хоббит",
+            "year:": 2009,
+            "pages:": 258,
+            "ISBN13": "978-1-5351-3933-5",
+            "rating:": 1.551,
+            "price:": 1978.81,
+            "author:": "Mrs. Elizabeth Carter MD"
+        }
+    },
+    {
+        "model:": "shop_books.book",
+        "pk:": 99,
+        "fields": {
+            "title:": "Гордость и предубеждение",
+            "year:": 1996,
+            "pages:": 61,
+            "ISBN13": "978-1-5351-3933-5",
+            "rating:": 1.76,
+            "price:": 2838.85,
+            "author:": "Mrs. Elizabeth Carter MD"
+        }
+    },
+    {
+        "model:": "shop_books.book",
+        "pk:": 100,
+        "fields": {
+            "title:": "Гордость и предубеждение",
+            "year:": 2006,
+            "pages:": 152,
+            "ISBN13": "978-1-5351-3933-5",
+            "rating:": 0.284,
+            "price:": 2577.77,
+            "author:": "Mrs. Elizabeth Carter MD"
+        }
+    }
+]
